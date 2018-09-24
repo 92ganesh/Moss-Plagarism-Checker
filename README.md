@@ -1,2 +1,2 @@
 # Moss-Plagarism-Checker
-compare software similarity using MOSS
+Java program to compare software similarity using MOSS
