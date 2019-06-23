@@ -7,4 +7,5 @@ MOSS is mainly used by institutes and websites for checking plagarism in competi
 e.g. Hackerrank and Codechef.
 
 # How to run?
-Just run MOSS.java and make sure you have working internet 
+Put files to check in a folder and provide its location in Moss.java 
+then just run MOSS.java and make sure you have working internet
